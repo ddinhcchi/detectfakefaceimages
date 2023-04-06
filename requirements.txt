@@ -28,9 +28,9 @@ six==1.16.0
 sympy==1.10.1
 torch==1.13.1
 torchsummary==1.5.1
-torchvision==0.15.1
-typing_extensions==4.5.0
-tzdata==2023.3
-urllib3==1.26.15
-Werkzeug==2.2.3
+torchvision
+typing_extensions
+tzdata
+urllib3
+Werkzeug
 gunicorn

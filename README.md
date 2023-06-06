@@ -39,7 +39,8 @@ Below is an example of how you can instruct your audience on installing and sett
 
 ## Contributors
 
-We all from HoChiMinh City University of Education
+We all come from HoChiMinh City University of Education
+<br />
 Tin Hao Khong - https://github.com/khongtinhao
 <br />
 To Thuy Anh Nguyen - https://github.com/Nguyen-To-Thuy-Anh

@@ -37,4 +37,12 @@ Below is an example of how you can instruct your audience on installing and sett
    python main.py
    ```
 
+##Contributors
+We all from HoChiMinh City University of Education
+Tin Hao Khong - https://github.com/khongtinhao
+To Thuy Anh Nguyen - https://github.com/Nguyen-To-Thuy-Anh
+Chi Dinh Chong - https://github.com/ddinhcchi
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
